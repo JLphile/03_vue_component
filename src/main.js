@@ -5,6 +5,16 @@ import { createApp } from 'vue'
 // import App from './04_组件通信-案例练习/App.vue'
 // import App from './05_组件插槽的基本使用/App.vue'
 // import App from './06_具名插槽/App.vue'
-import App from './07_作用域插槽/App.vue'
+// import App from './07_作用域插槽/App.vue'
+// import App from './08_Project和Inject/App.vue'
+// import App from './09_事件总线的使用/App.vue'
+// import App from './10_生命周期函数/App.vue'
+// import App from './11_获取元素组件/App.vue'
+
+// import App from './12_动态组件的使用/App.vue'
+// import App from './13_Keep-Alive的使用/App.vue'
+// import App from './14_异步组件的使用/App.vue'
+// import App from './15_组件的v-model/App.vue'
+import App from './16_组件的混入mixin(了解)/App.vue'
 
 createApp(App).mount('#app')
